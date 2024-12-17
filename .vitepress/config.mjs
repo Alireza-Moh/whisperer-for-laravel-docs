@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Idea Whisperer for Laravel",
   description: "Idea Whisperer For Laravel is a PhpStorm plugin designed to boost your productivity by streamlining the development process for Laravel applications. With a set of powerful features, this plugin helps you work faster when developing Laravel applications in PhpStorm.",
-  base: '/idea-whisperer-for-laravel/',
+  base: '/idea-whisperer-for-laravel-docs/',
   themeConfig: {
     logo: '/logo.svg',
     nav: [
