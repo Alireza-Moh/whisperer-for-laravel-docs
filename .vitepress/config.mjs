@@ -8,7 +8,7 @@ export default defineConfig({
     logo: '/logo.svg',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Documentation', link: '/docs' },
+      { text: 'Documentation', link: '/installation' },
       { text: 'Issues', link: 'https://github.com/Alireza-Moh/idea_whisperer_for_laravel/issues' }
     ],
 
