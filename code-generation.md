@@ -1,6 +1,6 @@
 # Code generation
 
-Laravel Idea provides a range of powerful code generation tools,
+Whisperer For Laravel provides a range of powerful code generation tools,
 accessible through the Code Generation option in the main menu. 
 These tools help you quickly create essential Laravel components like models, controllers,
 migrations, and more, streamlining your development workflow.

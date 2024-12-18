@@ -1,7 +1,7 @@
 # Helper Code Generation
 
 Eloquent uses a lot of magic, which PhpStorm can't understand by default.
-The Generate Eloquent Helper Code command (available under the Idea Whisperer For Laravel menu) creates helper code by
+The Generate Eloquent Helper Code command (available under the Whisperer For Laravel menu) creates helper code by
 fetching table information from migration files and linking it to your models.
 
 Once generated, PhpStorm will provide autocompletion for Eloquent's magic methods, making development faster and smoother.

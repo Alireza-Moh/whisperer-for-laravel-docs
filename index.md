@@ -2,12 +2,12 @@
 layout: home
 
 hero:
-  name: "Idea Whisperer for Laravel"
+  name: "Whisperer for Laravel"
   text: "The ultimate Laravel dev environment"
   tagline: All-in-one plugin to accelerate Laravel coding
   image:
     src: /logo.svg
-    alt: Idea Whisperer for Laravel
+    alt: Whisperer for Laravel
   actions:
     - theme: brand
       text: Get Started

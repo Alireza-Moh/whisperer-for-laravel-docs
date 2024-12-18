@@ -3,7 +3,7 @@
 By default, the plugin checks for the presence of `laravel/framework` folder.
 Plugin features will only work if one of these packages is found.
 
-![Settings Page](./images/settings/settings-overview.png)
+![Settings Page](./images/settings/project-type-standard-application.png)
 
 ![Settings Laravel packages](./images/settings/laravel-packages-settings.png)
 ## General settings
