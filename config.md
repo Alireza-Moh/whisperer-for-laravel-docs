@@ -7,14 +7,14 @@ It fetches all available config files based on your project type and settings, e
 
 ![Code generation](./images/config/config-facade.png)
 
-It also provides autocompletion for the following `Illuminate\Support\Facades\Config` methods:
-* `get()`
-* `fhas()`
-* `array()`
-* `boolean()`
-* `float()`
-* `integer()`
-* `string()`
-* `getMany()`
-* `set()`
-* `prepend()`
+It also provides autocompletion for the following methods:
+* `Illuminate\Support\Facades\Config::get()`
+* `Illuminate\Support\Facades\Config::fhas()`
+* `Illuminate\Support\Facades\Config::array()`
+* `Illuminate\Support\Facades\Config::boolean()`
+* `Illuminate\Support\Facades\Config::float()`
+* `Illuminate\Support\Facades\Config::integer()`
+* `Illuminate\Support\Facades\Config::string()`
+* `Illuminate\Support\Facades\Config::getMany()`
+* `Illuminate\Support\Facades\Config::set()`
+* `Illuminate\Support\Facades\Config::prepend()`
