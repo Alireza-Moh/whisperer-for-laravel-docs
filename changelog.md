@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.1.2 (2024-12-23)
+* Adds autocompletion for controller actions and namespaces in route definitions
+* Adds middleware autocompletion.
+* Fixes bugs.
+
 ## 1.1.1 (2024-12-20)
 * Triggers route names autocompletion for Redirect::route(), Redirect::signedRoute(), URL::route(), and URL::signedRoute() methods.
 * Suppresses "Property accessed via magic method" warning for request fields.
