@@ -14,3 +14,15 @@ The plugin offers route name autocompletion and resolving for the following meth
 
 ![Code generation](./images/routing/route-completion-in-controller.png)
 
+## Middleware completion
+
+It can complete all available laravel middleware aliases and groups.
+
+![Code generation](./images/routing/middleware-completion.png)
+
+
+## Namespace completion
+
+It can complete all available namespaces.
+
+![Code generation](./images/routing/namespace-completion.png)

@@ -1,7 +1,7 @@
 # Settings
 
 By default, the plugin checks for the presence of `laravel/framework` folder.
-Plugin features will only work if one of these packages is found.
+Plugin features will only work if this package is found.
 
 ![Settings Page](./images/settings/project-type-standard-application.png)
 
@@ -26,7 +26,7 @@ Plugin features will only work if one of these packages is found.
 ### Standard Application
 ![Settings Laravel packages](./images/settings/project-type-standard-application.png)
 
-Choose this option for a traditional/standard Laravel project structure.
+Choose this option for a standard Laravel project structure.
 This is the default project type.
 This option assumes a single-directory structure without modular separation.
 
