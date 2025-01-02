@@ -31,3 +31,11 @@ or <kbd>Shift</kbd> + <kbd>Cmd</kbd> + <kbd>Dot</kbd> (Mac) to open the generati
 - ✅ Create Exception
 - ✅ Create Event Listener
 - ✅ Create Middleware
+- ✅ Create Json Resource,
+- ✅ Create Json Resource Collection, 
+- ✅ Create Form Request,
+- ✅ Create Eloquent Scope,
+- ✅ Create Eloquent Cast, 
+- ✅ Create Broadcasting Channel,
+- ✅ Create DB Factory,
+- ✅ Create View Composer

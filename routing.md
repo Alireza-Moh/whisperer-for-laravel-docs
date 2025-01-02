@@ -20,6 +20,9 @@ It can complete all available laravel middleware aliases and groups.
 
 ![Code generation](./images/routing/middleware-completion.png)
 
+It provides autocompletion and resolving for the following methods:
+
+* `Route::withoutMiddleware()`
 
 ## Namespace completion
 

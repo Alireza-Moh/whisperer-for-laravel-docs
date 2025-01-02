@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.1.3 (2025-01-02)
+* Adds new code-generation actions: json-resource, json-resource-collection, form-request, eloquent-scope, eloquent-cast, broadcasting-channel, db-factory, view-composer
+* Adds navigation link to the plugin settings in the tool menu.
+* Adds env values completion.
+* Adds support for `withoutMiddleware()`
+* Adds indexing for config keys and blade files
+* Fixes some bugs.
+
 ## 1.1.2 (2024-12-23)
 * Adds autocompletion for controller actions and namespaces in route definitions
 * Adds middleware autocompletion.
